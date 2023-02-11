@@ -30,7 +30,7 @@ class _TranslatorListPageState extends State<TranslatorListPage> {
           languages: ["İngilizce", "Fransızca"],
           name: "Ahmet Serin"),
     ];
-    super.initState();
+    super.initState() ;
   }
 
   @override
